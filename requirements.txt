@@ -1,0 +1,9 @@
+streamlit
+langchain  # Ensure compatibility with both retrieval chains and document chains
+langchain-chroma  # For the Chroma vector store
+langchain-community # For community chat message history
+langchain-core # For core features like BaseChatMessageHistory
+chromadb  # Chroma for the vector store backend
+python-dotenv
+transformers
+
